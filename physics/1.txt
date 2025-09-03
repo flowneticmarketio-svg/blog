@@ -1,0 +1,15 @@
+Title: Quantum Entanglement in Photon Pairs
+
+Quantum entanglement is one of the most intriguing phenomena in physics. 
+In this study, we generated entangled photon pairs using a nonlinear crystal and measured their correlations under varying conditions.
+
+The results show strong agreement with Bell's theorem violations, confirming the non-local nature of quantum mechanics. 
+Potential applications include quantum computing, ultra-secure communication (quantum cryptography), and advanced sensing techniques.
+
+Key Findings:
+1. Correlation measurements exceeded classical limits.
+2. Entanglement remained stable up to 12 meters in free space.
+3. Data suggest potential for integration into quantum networks.
+
+Conclusion:
+Entanglement is not only a fundamental aspect of quantum mechanics but also a cornerstone for future technologies that may redefine information transfer and computation.
