@@ -6,7 +6,8 @@ const topic = params.get("topic");
 const topicMap = {
   physics: ["quantum", "relativity", "thermodynamics"],
   chemistry: ["organic", "inorganic", "physical"],
-  biology: ["genetics", "evolution", "ecology"]
+  biology: ["genetics", "evolution", "ecology"],
+  maths: ["quadratic", "functions", "matrices"]
 };
 
 // FIELD PAGE → show topics
