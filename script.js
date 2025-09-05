@@ -7,9 +7,20 @@ const topicMap = {
   physics: ["quantum", "relativity", "thermodynamics"],
   chemistry: ["organic", "inorganic", "physical"],
   biology: ["genetics", "evolution", "ecology"],
-  maths: ["quadratic", "functions", "matrices"]
+  maths: ["quadratic", "functions", "matrices"],
+  psychology: ["Mordern Psychology", "Mental Disease", "Evolution Impacted psychology"],
+  exam: ["JEE", "NEET", "CUET", "Boards"],
+  aims: ["flovvnetic's aim", "Human aim", "Religious aim", "Your aim"],
+  relationship: ["Mother-son", "Father-son", "Husband-wife", "brother-sister"],
+  social: ["Social issues", "evolution issues", "changes we can make"],
+  computer: ["computer science", "Java", "Python", "HTML", "CSS"],
+  art: ["Anime style", "painting", "sketching"],
+  fitness: ["Body building", "Yoga", "sports"],
+  vfx: ["3d model", "software", "hardware"],
+  vedit: ["YouTube edit", "movies", "marketting"],
+  looks: ["nose", "eyes", "cheeks"],
+  startup: ["technology", "distribution", "marketting"],
 };
-
 // FIELD PAGE → show topics
 if (field && !topic) {
   document.getElementById("field-title").textContent = field.toUpperCase();
