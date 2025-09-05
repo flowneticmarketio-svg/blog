@@ -19,7 +19,7 @@ const topicMap = {
   vfx: ["3d model", "software", "hardware"],
   vedit: ["YouTube edit", "movies", "marketting"],
   looks: ["nose", "eyes", "cheeks"],
-  startup: ["technology", "distribution", "marketting"],
+  startup: ["technology", "distribution", "marketting"]
 };
 // FIELD PAGE → show topics
 if (field && !topic) {
